@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 19.99,
+        "id": 1,
+        "title": "Piñata surprise",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/1.jpg"
+    },
+
+    {
+        "precio": 24.99,
+        "id": 2,
+        "title": "Winnis fiesta",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/2.jpg"
+    },
+
+    {
+        "precio": 11.99,
+        "id": 3,
+        "title": "Picafresa",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/3.jpg"
+    },
+
+    {
+        "precio": 14.99,
+        "id": 4,
+        "title": "Damy",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/4.jpg"
+    },
+
+    {
+        "precio": 14.99,
+        "id": 5,
+        "title": "Lucky Gummy's",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/5.jpg"
+    },
+
+    {
+        "precio": 19.99,
+        "id": 6,
+        "title": "Reese's",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/6.jpg"
+    },
+
+    {
+        "precio": 24.99,
+        "id": 7,
+        "title": "Natillas",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/7.jpg"
+    },
+
+    {
+        "precio": 19.99,
+        "id": 8,
+        "title": "Jack-O",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/8.jpg"
+    },
+
+    {
+        "precio": 22.99,
+        "id": 9,
+        "title": "Tamborines",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/9.jpg"
+    },
+
+    {
+        "precio": 9.99,
+        "id": 10,
+        "title": "Fun Dip",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/10.jpg"
+    },
+
+    {
+        "precio": 5.99,
+        "id": 11,
+        "title": "Calletas dulces",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/11.jpg"
+    },
+
+    {
+        "precio": 14.99,
+        "id": 12,
+        "title": "Gloria sevillana",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/12.jpg"
+    }
+
+]
